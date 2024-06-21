@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(22, 29, 31);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .gbutton{
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .header {
+    padding: 5px;
+    font-size: 1px;
+  }
+
+  img{
+    border-radius: 25%;
+
+  }
+
+  a{
+    font-size: 17px;
+    text-decoration: none;
+    color: white;
+
+  }
