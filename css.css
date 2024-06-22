@@ -1,49 +1,16 @@
 body {
-    background-image: url(retro_backround.png);
-    background-size: cover;
+  background-color: white;
+
   }
-  
-
-  .header {
-    padding: 5px;
-    font-size: 1px;
-  }
-  
-
-
-  .box{  
-  	width: 800px;
- 	  height: 600px; 
-}
 
   .header{
-    width: 800px;
-    height: 40px;
-    background-color: rgb(44, 45, 46);
-
+    width: 8000px;
+    height: 50px;
+    background-color: rgb(222, 216, 216);
   }
 
-  .typewriter h1 {
-    color: #fff;
-    font-family: monospace;
-    overflow: hidden;
-    border-right: .15em solid rgb(53, 20, 84);
-    white-space: nowrap;
-    margin: 0 auto;
-    letter-spacing: .15em;
-    animation: 
-      typing 3s steps(30, end),
-      blink-caret 0.5s step-end 10s;
+  a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
   }
-  
-  /* The typing effect */
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  /* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: rgb(53, 20, 84) }
-}
