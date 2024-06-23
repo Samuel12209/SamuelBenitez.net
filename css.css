@@ -4,13 +4,53 @@ body {
   }
 
   .header{
-    width: 8000px;
+    width: 1495px;
     height: 50px;
     background-color: rgb(222, 216, 216);
   }
 
-  a{
+  .sam_google{
+    max-width: 50px;
+    width: 15px;
+    height: auto;
+    
+  }
+
+  .skills{
+    font-size: 20px;
     text-decoration: none;
-    color: black;
-    font-size: 25px;
+  }
+  
+  .Results_Found{
+    color: gray;
+    font-size: 15px;
+
+  }
+
+  .skills1{
+    color: green;
+  }
+
+  .under_head {  
+  	width: 1495px; 
+ 	  height: 0.5px;
+    background-color: lightgray;
+} 
+
+  .search_box{
+    width: 360px; 
+    height: 31px;
+    background-color: white;
+  }
+
+  .contact{
+    font-size: 20px;
+  }
+
+  .side_box{
+    width: 200px; 
+    height: 500px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
   }
