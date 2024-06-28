@@ -63,3 +63,9 @@ body {
     height: 100px;
     border-bottom: 2px solid lightgray;
   }
+
+  .line3{
+    width: 253px;
+    height: 400px;
+    border-left: solid lightgray;
+  }
