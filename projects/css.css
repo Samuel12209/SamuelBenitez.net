@@ -3,7 +3,7 @@ body {
   }
 
   .header{
-    width: 1480px;
+    width: 1495px;
     height: 50px;
     background-color: rgb(222, 216, 216);
   }
@@ -29,7 +29,7 @@ body {
   }
 
   .under_head {  
-  	width: 1480px; 
+  	width: 1490px; 
  	  height: 0.5px;
     background-color: lightgray;
 } 
