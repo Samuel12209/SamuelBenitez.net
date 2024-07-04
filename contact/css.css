@@ -1,0 +1,71 @@
+body {
+  background-color: white;
+  }
+
+  .header{
+    width: 1480px;
+    height: 50px;
+    background-color: rgb(222, 216, 216);
+  }
+
+  .sam_google{
+    max-width: 50px;
+    width: 15px;
+    height: auto;
+  }
+
+  .skills{
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
+  .Results_Found{
+    color: gray;
+    font-size: 15px;
+  }
+
+  .skills1{
+    color: green;
+  }
+
+  .under_head {  
+  	width: 1480px; 
+ 	  height: 0.5px;
+    background-color: lightgray;
+} 
+
+  .search_box{
+    width: 360px; 
+    height: 31px;
+    background-color: white;
+  }
+
+  .contact{
+    font-size: 20px;
+  }
+
+  .line1 {
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    height: 350px;
+    width: 270px;
+  }
+
+  .box_line {
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    height: 200px;
+    width: 250px;
+  }
+
+  .line2{
+    width: 253px;
+    height: 100px;
+    border-bottom: 2px solid lightgray;
+  }
+
+  .line3{
+    width: 253px;
+    height: 400px;
+    border-left: solid lightgray;
+  }
