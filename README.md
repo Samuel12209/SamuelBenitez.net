@@ -10,4 +10,9 @@ this website has things like
 - hobbies
 - & more
 
-## Functional
+# TODO
+- fix skills page
+- finish intrests
+- finish goals
+- finish hobbies
+- polish
