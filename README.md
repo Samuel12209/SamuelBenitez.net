@@ -13,6 +13,7 @@ this website has things like
 # TODO
 - fix skills page
 - finish intrests
-- finish goals
+- finish goals | DONE
 - finish hobbies
-- polish
+- polish | DONE
+- Placeholders need to be filled in
