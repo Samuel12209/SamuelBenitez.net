@@ -11,4 +11,4 @@ this website has things like
 - & more
 
 # TODO
-- DONE!!
+- Website done!
