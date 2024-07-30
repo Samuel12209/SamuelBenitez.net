@@ -11,9 +11,4 @@ this website has things like
 - & more
 
 # TODO
-- fix skills page
-- finish intrests
-- finish goals | DONE
-- finish hobbies
-- polish | DONE
-- Placeholders need to be filled in
+- DONE!!
