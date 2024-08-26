@@ -1,7 +1,7 @@
 # This is my profolio website for my projects & about me
-This project is my first time working on a website 
+This project is my profolio website of me
 
-As well as using html and CSS This website showcases my projects and information about me!
+Uses html and CSS in the code
 
 this website has things like
 - skills
